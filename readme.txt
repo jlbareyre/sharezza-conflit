@@ -1,1 +1,1 @@
-Ceci est le premier texte écrit dans le readme.txt
+REMOTE : Ceci est le premier texte écrit dans le readme.txt
